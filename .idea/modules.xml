@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/er-log/er-log.iml" filepath="$PROJECT_DIR$/er-log/er-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/er-test/er-test.iml" filepath="$PROJECT_DIR$/er-test/er-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/workspace1111.iml" filepath="$PROJECT_DIR$/.idea/workspace1111.iml" />
     </modules>
   </component>
